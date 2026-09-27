@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+
+# CMake/build output
+build/
+out/
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.dll

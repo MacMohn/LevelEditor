@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LevelEditor/LevelEditor/LevelEditor.vcxproj" Id="1f46ccd1-cc56-48d6-8761-8aa649007012" />
+</Solution>
